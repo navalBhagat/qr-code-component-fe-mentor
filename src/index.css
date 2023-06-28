@@ -1,0 +1,11 @@
+html { 
+  background-color: hsl(212, 45%, 89%);
+}
+
+.card { 
+  border: 1rem;
+  height: 50px;
+  width: 30px;
+  border-color: gray;
+  box-shadow: 1px 1px darkgray;
+}
